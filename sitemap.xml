@@ -4,49 +4,56 @@
 
   <url>
     <loc>https://camaleaopublicidade.com.br/</loc>
-    <lastmod>2025-06-04</lastmod>
+    <lastmod>2025-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://camaleaopublicidade.com.br/bairros-salvador.html</loc>
-    <lastmod>2025-06-04</lastmod>
+    <lastmod>2025-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
 
   <url>
     <loc>https://camaleaopublicidade.com.br/comunicacao-visual-salvador-ba.html</loc>
-    <lastmod>2025-06-04</lastmod>
+    <lastmod>2025-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+   <url>
+    <loc>https://camaleaopublicidade.com.br/comunicacao-visual.html</loc>
+    <lastmod>2025-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
 
   <url>
     <loc>https://camaleaopublicidade.com.br/agencia-publicidade-salvador-ba.html</loc>
-    <lastmod>2025-06-04</lastmod>
+    <lastmod>2025-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
 
     <url>
     <loc>https://camaleaopublicidade.com.br/grafica-salvador-ba.html</loc>
-    <lastmod>2025-06-04</lastmod>
+    <lastmod>2025-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
     <loc>https://camaleaopublicidade.com.br/criacao-de-site-salvador-ba.html</loc>
-    <lastmod>2025-06-04</lastmod>
+    <lastmod>2025-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://camaleaopublicidade.com.br/design-grafico-salvador-ba.html</loc>
-    <lastmod>2025-06-04</lastmod>
+    <lastmod>2025-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
