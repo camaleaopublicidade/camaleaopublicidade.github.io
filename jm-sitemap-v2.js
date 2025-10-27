@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Configurações
-const baseUrl = 'https://www.dcontroll.com.br';
+const baseUrl = 'https://camaleaopublicidade.com.br';
 const siteFolder = './';
 const outputFile = path.join(siteFolder, 'sitemap.xml');
 
